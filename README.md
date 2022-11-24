@@ -1,7 +1,5 @@
 # Pewlett-Hackard-Analysis
 
-# Pewlett-Hackard-Analysis
-
 ## Analysis Overview
 The purpose of this analysis is to determine employee retirement eligibility and if there are enough current employees to fill positions
 *Total Active employees = 240124
